@@ -86,5 +86,23 @@ categories: 运维
 如果你感觉hexo默认的主题不够漂亮，你可以到hexo官网上挑选你喜欢的主题，然后git clone到themes目录下，再然后修改站点配置文件_config.yml的theme属性就可以了，在push到github就发布了
 ![](http://i12.tietuku.com/8c6dddaea6d6bd35.png)
 
+#### 多PC同步博客
 
+    git clone https://github.com/KublaikhanGeek/MyBlog.git 
+通过以上命令下载备份的博客,然后进入的MyBlog目录执行一下命令:
 
+    # 安装hexo
+    npm install -g hexo
+    # 生成博客
+    hexo g
+    # 在本地查看日志
+    hexo s
+    # 发布到github
+    hexo d
+
+    # 或是使用阿里的npm源
+    npm install -g cnpm --registry=https://registry.npm.taobao.org
+    cnpm install -g hexo
+    hexo g
+    hexo s
+    hexo d
