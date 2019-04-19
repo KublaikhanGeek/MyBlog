@@ -85,6 +85,12 @@ theme: icarus
 # duoshuo_shortname: hexo-theme-icarus
 
 
+# Markdown-toc
+## https://github.com/bubkoo/hexo-toc
+toc:
+    maxDepth: 3
+    class: toc
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
