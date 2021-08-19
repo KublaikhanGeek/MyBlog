@@ -1,7 +1,7 @@
 title: Timer最小堆实现
 date: 2019-08-01 20:32:35
-tags: [工具,algrithm]
-categories: algrithm
+tags: [工具,algorithm]
+categories: algorithm
 ---
 ### Timer最小堆实现
 
