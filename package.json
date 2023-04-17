@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "hexo": "^3.1.0",
+    "hexo": "^3.9.0",
     "hexo-asset-image": "git+https://github.com/CodeFalling/hexo-asset-image.git",
     "hexo-deployer-git": "0.0.4",
     "hexo-fs": "^1.0.2",
@@ -19,7 +19,7 @@
     "hexo-pagination": "^0.1.0",
     "hexo-renderer-ejs": "^0.1.0",
     "hexo-renderer-marked": "^0.2.4",
-    "hexo-renderer-stylus": "^0.3.0",
+    "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.1.2",
     "hexo-toc": "^1.1.0",
     "hexo-util": "^0.6.3",
