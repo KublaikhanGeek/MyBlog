@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "hexo": "^3.1.0",
+    "hexo": "^3.9.0",
     "hexo-asset-image": "git+https://github.com/CodeFalling/hexo-asset-image.git",
     "hexo-deployer-git": "0.0.4",
     "hexo-fs": "^1.0.2",
